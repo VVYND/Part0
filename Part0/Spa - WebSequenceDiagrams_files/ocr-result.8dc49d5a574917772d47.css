@@ -1,0 +1,115 @@
+.header-bar[data-v-c7cfaaec] {
+  width: 100%;
+  height: 34px;
+  line-height: 34px;
+  background: #f95455;
+  color: #fff;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.header-bar .close-wrap[data-v-c7cfaaec] {
+  float: right;
+  cursor: pointer;
+}
+.header-bar .close-wrap .close[data-v-c7cfaaec] {
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9IjhweCIgdmlld0JveD0iMCAwIDggOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDkuMSAoNTExNDcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPuWKoOWPty1ub3JtYWw8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zNTUuMDAwMDAwLCAtMTMyNy4wMDAwMDApIiBmaWxsPSIjZmZmIj4KICAgICAgICAgICAgPGcgaWQ9IumUmeWPty1ub3JtYWwiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM1NS4wMDAwMDAsIDEzMjcuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNCwzLjI5ODgzMDE0IEw3LjE1NDQwMTM2LDAuMTQ0NDI4NzcyIEM3LjM0ODUwMDcxLC0wLjA0OTY3MDU3NTEgNy42Njg0NzQxNywtMC4wNDQzOTQzMzg3IDcuODU2NDM0MjUsMC4xNDM1NjU3NDcgQzguMDUwMDU2OTYsMC4zMzcxODg0NTggOC4wNDU5MjQ5NiwwLjY1NTI0NDg5OSA3Ljg1NTU3MTIzLDAuODQ1NTk4NjM2IEw0LjcwMTE2OTg2LDQgTDcuODU1NTcxMjMsNy4xNTQ0MDEzNiBDOC4wNDk2NzA1OCw3LjM0ODUwMDcxIDguMDQ0Mzk0MzQsNy42Njg0NzQxNyA3Ljg1NjQzNDI1LDcuODU2NDM0MjUgQzcuNjYyODExNTQsOC4wNTAwNTY5NiA3LjM0NDc1NTEsOC4wNDU5MjQ5NiA3LjE1NDQwMTM2LDcuODU1NTcxMjMgTDQsNC43MDExNjk4NiBMMC44NDU1OTg2MzYsNy44NTU1NzEyMyBDMC42NTE0OTkyODksOC4wNDk2NzA1OCAwLjMzMTUyNTgzMyw4LjA0NDM5NDM0IDAuMTQzNTY1NzQ3LDcuODU2NDM0MjUgQy0wLjA1MDA1Njk2NDUsNy42NjI4MTE1NCAtMC4wNDU5MjQ5NjQ4LDcuMzQ0NzU1MSAwLjE0NDQyODc3Miw3LjE1NDQwMTM2IEwzLjI5ODgzMDE0LDQgTDAuMTQ0NDI4NzcyLDAuODQ1NTk4NjM2IEMtMC4wNDk2NzA1NzUxLDAuNjUxNDk5Mjg5IC0wLjA0NDM5NDMzODcsMC4zMzE1MjU4MzMgMC4xNDM1NjU3NDcsMC4xNDM1NjU3NDcgQzAuMzM3MTg4NDU4LC0wLjA1MDA1Njk2NDUgMC42NTUyNDQ4OTksLTAuMDQ1OTI0OTY0OCAwLjg0NTU5ODYzNiwwLjE0NDQyODc3MiBMNCwzLjI5ODgzMDE0IFoiIGlkPSJDb21iaW5lZC1TaGFwZSI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) no-repeat center;
+  width: 14px;
+  height: 14px;
+  background-size: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.mask[data-v-23b8fa44] {
+  width: 100%;
+  height: 100%;
+  z-index: 30;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
+.mask img[data-v-23b8fa44] {
+  position: absolute;
+}
+
+.ocr-item-list[data-v-4b01d6e7] {
+  padding: 20px;
+  overflow: auto;
+}
+
+.ad-audit-ocr-result-block[data-v-6ad5ea38] {
+  width: 100%;
+  border: 1px solid #eee;
+  box-shadow: 0 0 10px #ddd;
+  border-radius: 4px;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.ad-audit-ocr-result-block .img[data-v-6ad5ea38] {
+  max-width: 100%;
+}
+.ad-audit-ocr-result-block .img img[data-v-6ad5ea38] {
+  width: 100%;
+}
+.ad-audit-ocr-result-block .img .block[data-v-6ad5ea38] {
+  width: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.ad-audit-ocr-result-block .text[data-v-6ad5ea38] {
+  padding: 8px;
+}
+.ad-audit-ocr-result-block .hidden[data-v-6ad5ea38] {
+  position: fixed;
+  left: -500px;
+}
+.ad-audit-ocr-result-block .opr[data-v-6ad5ea38] {
+  border-top: 1px solid #eee;
+  padding: 6px;
+}
+
+.error-item .common .retry[data-v-4d11f89a] {
+  margin-left: 12px;
+}
+
+.archor[data-v-080f1dd7] {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.highlight-section .empty[data-v-55376237] {
+  text-align: center;
+}
+.highlight-section .section[data-v-55376237] {
+  width: 100%;
+  border: 1px solid #eee;
+  box-shadow: 0 0 10px #eee;
+  border-radius: 4px;
+  text-align: left;
+  overflow: hidden;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.highlight-section .section .text[data-v-55376237] {
+  padding: 16px;
+  font-size: 12px;
+  box-sizing: border-box;
+  flex: 1;
+}
+.highlight-section .section .text[data-v-55376237] .audit_hightlight_node {
+  padding: none !important;
+  box-shadow: none !important;
+  background: none !important;
+  color: #f00 !important;
+  font-weight: normal !important;
+}
+.highlight-section .section .opr[data-v-55376237] {
+  width: 70px;
+  display: flex;
+  align-items: center;
+}
+
